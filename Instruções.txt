@@ -1,0 +1,26 @@
+(PRIMEIRA PARTE)
+
+1) Instale o ZIP "Parte1_queromeusdireitos" e Extraia
+
+2) Abra o "Parte1_queromeusdireitos.sln" tendo o visual studio instalado
+
+3) Inicie o aplicativo e selecione o Exercicio que você gostaria de ver na parte superior do aplicativo
+
+(SEGUNDA PARTE)
+
+1) Inicialize o Wamp server
+
+2) Inicie o banco de dados chamado de "livraria"
+
+3) Coloque a pasta "Parte2_queromeusdireitos" na pasta "C:\wamp64\www"
+
+4) Clique no wamp server na aba de aplicativos em segundo plano
+
+5) Clique em local host
+
+6) Clique em "Parte2_queromeusdireitos"
+
+7) Realize a função de sua escolha
+
+
+
