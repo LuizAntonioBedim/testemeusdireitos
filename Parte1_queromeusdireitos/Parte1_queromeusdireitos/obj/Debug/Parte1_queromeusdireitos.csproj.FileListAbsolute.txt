@@ -1,0 +1,14 @@
+D:\Projetos\Parte1_queromeusdireitos\Parte1_queromeusdireitos\bin\Debug\Parte1_queromeusdireitos.exe.config
+D:\Projetos\Parte1_queromeusdireitos\Parte1_queromeusdireitos\bin\Debug\Parte1_queromeusdireitos.exe
+D:\Projetos\Parte1_queromeusdireitos\Parte1_queromeusdireitos\bin\Debug\Parte1_queromeusdireitos.pdb
+D:\Projetos\Parte1_queromeusdireitos\Parte1_queromeusdireitos\obj\Debug\Parte1_queromeusdireitos.csproj.AssemblyReference.cache
+D:\Projetos\Parte1_queromeusdireitos\Parte1_queromeusdireitos\obj\Debug\Parte1_queromeusdireitos.Form1.resources
+D:\Projetos\Parte1_queromeusdireitos\Parte1_queromeusdireitos\obj\Debug\Parte1_queromeusdireitos.Properties.Resources.resources
+D:\Projetos\Parte1_queromeusdireitos\Parte1_queromeusdireitos\obj\Debug\Parte1_queromeusdireitos.csproj.GenerateResource.cache
+D:\Projetos\Parte1_queromeusdireitos\Parte1_queromeusdireitos\obj\Debug\Parte1_queromeusdireitos.csproj.CoreCompileInputs.cache
+D:\Projetos\Parte1_queromeusdireitos\Parte1_queromeusdireitos\obj\Debug\Parte1_queromeusdireitos.exe
+D:\Projetos\Parte1_queromeusdireitos\Parte1_queromeusdireitos\obj\Debug\Parte1_queromeusdireitos.pdb
+D:\Projetos\Parte1_queromeusdireitos\Parte1_queromeusdireitos\obj\Debug\Parte1_queromeusdireitos.ex1.resources
+D:\Projetos\Parte1_queromeusdireitos\Parte1_queromeusdireitos\obj\Debug\Parte1_queromeusdireitos.ex2.resources
+D:\Projetos\Parte1_queromeusdireitos\Parte1_queromeusdireitos\obj\Debug\Parte1_queromeusdireitos.ex3.resources
+D:\Projetos\Parte1_queromeusdireitos\Parte1_queromeusdireitos\obj\Debug\Parte1_queromeusdireitos.ex4.resources
